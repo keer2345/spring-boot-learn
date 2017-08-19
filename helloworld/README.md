@@ -1,3 +1,13 @@
 # Hello world
-## 新建一个Web项目
-## 新建Controller
+## 添加web支持
+pom.xml
+```xml
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-web</artifactId>
+</dependency>
+```
+## 控制文件
+HelloController.java
+## 测试文件
+HelloworldApplicationTests.java
