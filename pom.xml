@@ -22,6 +22,7 @@
     <modules>
         <module>helloworld</module>
         <module>JPA</module>
+        <module>mybatis</module>
     </modules>
 
     <properties>
